@@ -17,12 +17,12 @@ These are the following PRs that I have made to the ardupilot codebase
 	 - Status:Merged
 - AP_HAL:examples:Printf: Improvements in the Printf example
 	 - https://github.com/ArduPilot/ardupilot/pull/16260
-	 - Detail:Added proper documentation for the Printf example after testing it with Pixhawk board, as suggested [here]()
+	 - Detail:Added proper documentation for the Printf example after testing it with Pixhawk board, as suggested [here](https://ardupilot.org/dev/docs/learning-ardupilot-the-example-sketches.html#rough-example-code)
 	 - Status:Merged
 	 - Note:Documentation was little bit too lengthy( comments for every line )
 - AP_HAL:examples:AnalogIn: Added comments in the AnalogIn example 
 	 - https://github.com/ArduPilot/ardupilot/pull/16229
-	 - Detail:Added proper documentation for the Printf example after testing it with Pixhawk board, as suggested [here]()
+	 - Detail:Added proper documentation for the Printf example after testing it with Pixhawk board, as suggested [here](https://ardupilot.org/dev/docs/learning-ardupilot-the-example-sketches.html#rough-example-code)
 	 - Status:Merged
 - Copter: EKF3: pre-arm check GPS failure fix 
 	 - https://github.com/ArduPilot/ardupilot/pull/16132
