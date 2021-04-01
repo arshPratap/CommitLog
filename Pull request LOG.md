@@ -1,9 +1,5 @@
 # Pull request LOG
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 This file consists of a detailed log of my Pull requests that I have made to ardupilot community.This would help in the following areas :
 - I can have a detailed and customised log of the PRs 
 - Help me prioritise my PRs so as to focus my attention to more important ones 
