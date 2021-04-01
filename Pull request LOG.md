@@ -27,7 +27,7 @@ These are the following PRs that I have made to the ardupilot codebase
 - Copter: EKF3: pre-arm check GPS failure fix 
 	 - https://github.com/ArduPilot/ardupilot/pull/16132
 	 - Detail:Configuring the pre-arm failure for GPS_TYPE=0 so that users flying indoors with GPS disabled could fly their drone accordingly 
-	 - Status:Closed in favor of the [PR]()
+	 - Status:Closed in favor of the [PR](https://github.com/ArduPilot/ardupilot/pull/16399)
 - Morse:Made changes to add vehicle following camera 
 	 - https://github.com/ArduPilot/ardupilot/pull/16762
 	 - Detail:Added the vehicle following camera functionality for Morse simulations. 
