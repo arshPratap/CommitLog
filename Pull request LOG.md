@@ -31,14 +31,14 @@ These are the following PRs that I have made to the ardupilot codebase
 - Morse:Made changes to add vehicle following camera 
 	 - https://github.com/ArduPilot/ardupilot/pull/16762
 	 - Detail:Added the vehicle following camera functionality for Morse simulations. 
-	 - Status:Closed in favor of the [PR](),as this implementation was rough around the edges and had some loopholes
+	 - Status:Closed in favor of the [PR](https://github.com/ArduPilot/ardupilot/pull/16779),as this implementation was rough around the edges and had some loopholes
 - Morse:Added Vehicle Follow Support 
 	 - https://github.com/ArduPilot/ardupilot/pull/16779
 	 - Detail:Added the vehicle following camera functionality for Morse simulations.Upgrade of the above PR.
 	 - Status:Needs Review
 - Copter:Implement LOITER_TURNS in Guided Mode
 	 - https://github.com/ArduPilot/ardupilot/pull/16473
-	 - Detail:Added a loiter_turns sub mode for the guided drive mode in accordance with what asked for [here]()
+	 - Detail:Added a loiter_turns sub mode for the guided drive mode in accordance with what asked for [here](https://discuss.ardupilot.org/t/copter-not-supporting-mav-cmd-nav-loiter-turns-question/51785)
 	 - Status:Needs work as some functions have caused duplication in the code base.
 - Rover/EKF: fix for vehicle moving when GPS_TYPE=0
 	 - https://github.com/ArduPilot/ardupilot/pull/16562
